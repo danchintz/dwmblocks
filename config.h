@@ -6,7 +6,7 @@ static const Block blocks[] = {
 	{"", "torrentstats",  1, 1},
 	{"",	"pacpackages",	0,	8},
 	{"",   "weather", 600, 2 },
-	{"🎧", "pulsemixer --get-volume | awk '{print $1\"%\"}'",  0, 11 },
+	{"🎧", "music",  0, 11 },
 	{"📬", "mail", 	30, 12 },
 	{"", "battery", 5, 3},
 	{"", "vpnstatus", 30, 4},
