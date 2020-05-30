@@ -4,11 +4,12 @@ static const Block blocks[] = {
 	//{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	{"",   "recording", 	60000, 9},
 	{"", "torrentstats",  1, 1},
+	{"", "nettraf",  1, 0},
 	{"",	"pacpackages",	0,	8},
 	{"",   "weather", 600, 2 },
 	{"🎧", "music",  0, 11 },
 	{"📬", "mail", 	30, 12 },
-	{"", "battery", 5, 3},
+	{"", "battery", 2, 3},
 	{"", "vpnstatus", 30, 4},
 	{"",   "date \"+%I:%M%P\"", 	1, 5 },
 
