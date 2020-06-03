@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	//{"", "cat /tmp/recordingicon 2>/dev/null",	0,	9},
 	{"",   "recording", 	60000, 9},
 	{"", "torrentstats",  1, 1},
-	{"",	"pacpackages",	0,	8},
+	{"",	"pacpackages",	3600,	8},
 	{"",   "weather", 600, 2 },
 	{"🎧", "music",  0, 11 },
 	{"📬", "mail", 	30, 12 },
