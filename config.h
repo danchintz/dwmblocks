@@ -5,12 +5,13 @@ static const Block blocks[] = {
 	{"",   "recording", 	60000, 9},
 	{"", "torrentstats",  1, 1},
 	{"",	"pacpackages",	3600,	8},
+	{"", "nettraf",  1, 0},
 	{"",   "weather", 600, 2 },
 	{"🎧", "music",  0, 11 },
 	{"📬", "mail", 	30, 12 },
-	{"", "battery", 5, 3},
+	{"", "battery", 2, 3},
 	{"", "vpnstatus", 30, 4},
-	{"",   "date \"+%I:%M%P\"", 	1, 5 },
+	{"",   "date \"+%I:%M%P\"", 	5, 5 },
 
 };
 
