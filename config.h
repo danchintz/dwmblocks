@@ -10,7 +10,7 @@ static const Block blocks[] = {
 	{"🎧", "music",  0, 11 },
 	{"📬", "mail", 	30, 12 },
 	{"", "battery", 2, 3},
-	{"", "vpnstatus", 30, 4},
+	{"", "vpnstatus", 3, 4},
 	{"",   "date \"+%I:%M%P\"", 	5, 5 },
 
 };
